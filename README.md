@@ -1,40 +1,39 @@
-# Hi there! 👋
+# Hey! I'm a Advay Salvi 👨‍💻
 
-I'm a **Computer Engineering student** with hands-on experience in full-stack development, passionate about building scalable web applications and innovative technology solutions.
+Building web applications with modern technologies. I love creating solutions that solve real problems.
 
-## 🚀 About Me
-- 🎓 Bachelor of Engineering in Computer Engineering at Atharva College of Engineering, Mumbai
-- 🌱 Currently exploring advanced full-stack technologies
-- 📫 Looking for software developer opportunities
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-**Languages:** Python, JavaScript, SQL, HTML, CSS
+### 🏆 [TeamUp - Sports Event Manager](https://github.com/yourusername/teamup)
+A full-stack platform for organizing local sports events with real-time features
+```
+Tech: React + Node.js + MongoDB + Socket.IO
+Features: Event creation, user registration, real-time chat, responsive design
+```
 
-**Frontend:** React, Angular, Tailwind CSS, Bootstrap
+### 💬 [Real-Time Chat Application](https://github.com/yourusername/chat-app)
+Instant messaging app with live communication capabilities
+```
+Tech: MERN Stack + Socket.IO + MongoDB Atlas
+Features: User authentication, live messaging, responsive UI
+```
 
-**Backend:** Node.js, Express.js
+## 📈 What I'm Working On
+- Building more full-stack applications
+- Exploring new JavaScript frameworks
+- Contributing to open-source projects
 
-**Databases:** MongoDB, PostgreSQL
-
-**Tools & Others:** Git, GitHub, Postman, Socket.IO, Mongoose
-
-## 🔥 Featured Projects
-
-### [TeamUp](https://github.com/advayS10/teamup)
-Full-stack web application for organizing local sports events
-- **Tech:** MERN stack, Socket.IO
-- **Features:** User registration, event management, real-time chat, responsive design
-
-### [Real-time Chat App](https://github.com/advayS10/chatapp)
-Built a real-time chat application with instant messaging
-- **Tech:** MERN stack, Socket.IO
-- **Features:** User authentication, responsive interface, MongoDB Atlas integration
-
-## 🏆 Achievements
-- Solved 200+ problems on [LeetCode](https://leetcode.com/u/advays/)
-- Participated in Smart India Hackathon 2024
-- Participated in Projectathon 2.0 at Atharva College of Engineering
+## 🔗 Let's Connect
+- 💼 Open to collaboration and opportunities
+- 📫 Feel free to explore my repositories
+- ⭐ Don't forget to star projects you find interesting!
 
 ---
-*Open to collaboration and exciting opportunities!*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advayS10&layout=compact&theme=dark&hide_border=true)
