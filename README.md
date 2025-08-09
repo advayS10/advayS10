@@ -11,14 +11,14 @@ Building web applications with modern technologies. I love creating solutions th
 
 ## 🚀 Featured Projects
 
-### 🏆 [TeamUp - Sports Event Manager](https://github.com/yourusername/teamup)
+### 🏆 [TeamUp - Sports Event Manager](https://github.com/advayS10/teamup)
 A full-stack platform for organizing local sports events with real-time features
 ```
 Tech: React + Node.js + MongoDB + Socket.IO
 Features: Event creation, user registration, real-time chat, responsive design
 ```
 
-### 💬 [Real-Time Chat Application](https://github.com/yourusername/chat-app)
+### 💬 [Real-Time Chat Application](https://github.com/advayS10/chat-app)
 Instant messaging app with live communication capabilities
 ```
 Tech: MERN Stack + Socket.IO + MongoDB Atlas
